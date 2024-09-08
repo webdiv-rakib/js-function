@@ -5,7 +5,7 @@
  * step3: set a parameter(s)
  * step4: pass the parameter(s),check whether parameter is passed in a proper format
  * step5: do the function tasks(step by step)
- * 
+ *
  */
 
 function sumOfNumbers(numbers) {
